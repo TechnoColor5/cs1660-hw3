@@ -6,4 +6,4 @@ Link to data file: https://pitt-my.sharepoint.com/:t:/g/personal/dam255_pitt_edu
 
 ![](./output_on_azure.png)
 
-![](./acure_account.png)
+![](./azure_account.png)
